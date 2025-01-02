@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🔭 I’m currently working on a very big project<br>🌱 I’m currently learning react native expo and flutter<br>👯 I’m looking to collaborate on my gamified project<br>💬 Ask me about collabs<br>⚡ Fun fact: I'm the best coder only in my dreams<br>📫 How to reach me: llindanigrootboom@gmail.com for collabs
+🔭 I’m currently working on a very big project<br>🌱 I’m currently learning react native expo and flutter<br>👯 I’m looking to collaborate on my gamified project<br>💬 Ask me about collabs<br>⚡ Fun fact: I'm the best coder only in my dreams<br>📫 How to reach me: llindanigrootboom@gmail.com for collabs
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tallsomething) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tall_maybe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lindani-grootboom-959998321) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tall_dev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/chilli2designs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tik_tall) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lindanigrootboom4634) 
